@@ -8,6 +8,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gtest_unittest", "gtest_uni
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gtest_prod_test", "gtest_prod_test.vcxproj", "{24848551-EF4F-47E8-9A9D-EA4D49BC3ECA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "testGoogleTest", "..\samples\my\testGoogleTest\testGoogleTest.vcxproj", "{B64768C3-4264-4F89-BB17-A2D5A699AA80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -30,6 +32,10 @@ Global
 		{24848551-EF4F-47E8-9A9D-EA4D49BC3ECA}.Debug|Win32.Build.0 = Debug|Win32
 		{24848551-EF4F-47E8-9A9D-EA4D49BC3ECA}.Release|Win32.ActiveCfg = Release|Win32
 		{24848551-EF4F-47E8-9A9D-EA4D49BC3ECA}.Release|Win32.Build.0 = Release|Win32
+		{B64768C3-4264-4F89-BB17-A2D5A699AA80}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B64768C3-4264-4F89-BB17-A2D5A699AA80}.Debug|Win32.Build.0 = Debug|Win32
+		{B64768C3-4264-4F89-BB17-A2D5A699AA80}.Release|Win32.ActiveCfg = Release|Win32
+		{B64768C3-4264-4F89-BB17-A2D5A699AA80}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

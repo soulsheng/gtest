@@ -1,3 +1,4 @@
 /msvc/*.opensdf
 /msvc/*.sdf
 /msvc/gtest
+/msvc/ipch/testgoogletest-952a4735/*.ipch
