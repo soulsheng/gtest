@@ -2,3 +2,8 @@
 /msvc/*.sdf
 /msvc/gtest
 /msvc/ipch/testgoogletest-952a4735/*.ipch
+/samples/my/testGoogleTest/Release
+/msvc/Release
+/samples/my/testGoogleTest/*.filters
+/samples/my/testGoogleTest/*.user
+/msvc/*.suo
